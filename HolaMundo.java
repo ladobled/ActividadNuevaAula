@@ -1,6 +1,10 @@
 public class HolaMundo{
-	
-public static void main (String[] args){
-		// HOLI
+
+	public void saludar (){
+		System.out.println("Diego, malage");
+	}
+
+	public static void main(String args[]){
+		Saludar();
 	}
 }
